@@ -18,7 +18,8 @@ It uses the [EmailValidation.io API](https://emailvalidation.io/) to check if an
 
 ## 🖼️ Screenshot
 
-![frontview](./screenshoots/.frontview.png)
+![frontview](./screenshots/frontview.png)
+
 
 ---
 
